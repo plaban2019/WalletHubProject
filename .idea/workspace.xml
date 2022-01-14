@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bc6bdbba-93cb-4570-8ade-51eba888a79e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="23NCRdX2BOuFGTTxYGyRmqfVTii" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Utility" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.WalletHubTestCase">
+    <configuration name="FaceBookTestCase" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="WalletHub-Assignment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestCase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestCase" />
+      <option name="MAIN_CLASS_NAME" value="TestCase.FaceBookTestCase" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FaceBookTestCase.faceBookTestCase" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="WalletHub-Assignment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestCase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestCase" />
+      <option name="MAIN_CLASS_NAME" value="TestCase.FaceBookTestCase" />
+      <option name="METHOD_NAME" value="faceBookTestCase" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WalletHubTestCase" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="WalletHub-Assignment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestCase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestCase" />
+      <option name="MAIN_CLASS_NAME" value="TestCase.WalletHubTestCase" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WalletHubTestCase.walletHubTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="WalletHub-Assignment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestCase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestCase" />
+      <option name="MAIN_CLASS_NAME" value="TestCase.WalletHubTestCase" />
+      <option name="METHOD_NAME" value="walletHubTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.WalletHubTestCase" />
+        <item itemvalue="TestNG.FaceBookTestCase" />
+        <item itemvalue="TestNG.WalletHubTestCase.walletHubTest" />
+        <item itemvalue="TestNG.FaceBookTestCase.faceBookTestCase" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bc6bdbba-93cb-4570-8ade-51eba888a79e" name="Default Changelist" comment="" />
+      <created>1641565151131</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1641565151131</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1238" height="168" key="GridCell.Tab.0.bottom" timestamp="1642177249427">
+      <screen x="0" y="25" width="1280" height="697" />
+    </state>
+    <state width="1236" height="212" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1642145461250" />
+    <state width="1238" height="168" key="GridCell.Tab.0.bottom/0.25.1280.697@0.25.1280.697" timestamp="1642177249427" />
+    <state width="1238" height="168" key="GridCell.Tab.0.center" timestamp="1642177249426">
+      <screen x="0" y="25" width="1280" height="697" />
+    </state>
+    <state width="1236" height="212" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1642145461248" />
+    <state width="1238" height="168" key="GridCell.Tab.0.center/0.25.1280.697@0.25.1280.697" timestamp="1642177249426" />
+    <state width="1238" height="168" key="GridCell.Tab.0.left" timestamp="1642177249426">
+      <screen x="0" y="25" width="1280" height="697" />
+    </state>
+    <state width="1236" height="212" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1642145461248" />
+    <state width="1238" height="168" key="GridCell.Tab.0.left/0.25.1280.697@0.25.1280.697" timestamp="1642177249426" />
+    <state width="1238" height="168" key="GridCell.Tab.0.right" timestamp="1642177249427">
+      <screen x="0" y="25" width="1280" height="697" />
+    </state>
+    <state width="1236" height="212" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1642145461249" />
+    <state width="1238" height="168" key="GridCell.Tab.0.right/0.25.1280.697@0.25.1280.697" timestamp="1642177249427" />
+    <state x="295" y="204" key="com.intellij.ide.util.TipDialog" timestamp="1642176306308">
+      <screen x="0" y="25" width="1280" height="697" />
+    </state>
+    <state x="295" y="204" key="com.intellij.ide.util.TipDialog/0.25.1280.697@0.25.1280.697" timestamp="1642176306308" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/WalletHub_Assignment$WalletHubTestCase.ic" NAME="WalletHubTestCase Coverage Results" MODIFIED="1642176347513" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>TestCase.*</FILTER>
+    </SUITE>
+  </component>
+</project>
